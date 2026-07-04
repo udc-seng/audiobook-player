@@ -4,8 +4,8 @@ A browser-based audiobook player built with HTML, CSS and JavaScript.
 
 ## Screenshots
 
-![Player](images/screenshot-1.png)
-![Player Playing](images/screenshot-2.png)
+![Player](images/screenshot-1.jpeg)
+![Player Playing](images/screenshot-2.jpeg)
 
 ## Features
 
